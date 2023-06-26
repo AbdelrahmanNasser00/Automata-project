@@ -1,0 +1,3 @@
+/home/abdelrahman/CLionProjects/Automata Project/cmake-build-debug/CMakeFiles/Automata_Project.dir
+/home/abdelrahman/CLionProjects/Automata Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abdelrahman/CLionProjects/Automata Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
